@@ -20,7 +20,3 @@ This project demonstrates real-time natural language interactions, modular React
 - **Version Control:** Git, GitHub  
 
 ---
-
-
-
-## 📂 Project Structure
